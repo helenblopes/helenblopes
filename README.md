@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou a Helen</h1>
 <h3 align="center">Apaixonada por tecnologia e desenvolvimento</h3>
 
-- 💬 Me pergunte sobre **ServiceDesk, Suporte, Hardware e Software.**
+- 💬 Me pergunte sobre **ServiceDesk, Suporte de TI, Hardware e Software.**
 
 - 📫 Você me encontra através do e-mail: **contatohelenlopes@gmail.com**
 
