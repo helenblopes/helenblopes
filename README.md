@@ -5,8 +5,6 @@
 
 - 📫 Você me encontra através do e-mail: **contatohelenlopes@gmail.com**
 
-- 📄 Experiências profissionais: [https://www.linkedin.com/in/helenblopes](https://www.linkedin.com/in/helenblopes)
-
 - 💡 Conheça um pouco do meu desenvolvimento: [https://github.com/helenblopes/portfolio](https://github.com/helenblopes/portfolio)
 
 <h3 align="left">Connect with me:</h3>
