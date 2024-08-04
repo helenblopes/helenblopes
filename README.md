@@ -9,6 +9,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helenblopes&" alt="helenblopes" /></p>
 
+<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helenblopes&label=Profile%20views&color=0e75b6&style=flat" alt="helenblopes" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helenblopes" alt="helenblopes" /></a> </p>
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/helenblopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/helenblopes" height="30" width="40" /></a>
