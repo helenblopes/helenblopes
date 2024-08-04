@@ -13,6 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/helenblopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/helenblopes" height="30" width="40" /></a>
 <a href="https://discord.gg/helenblopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="helenblopes" height="30" width="40" /></a> <p align="left"> 
-___________________________________________________________________________________________________
+______________________________
   
 <img src="https://komarev.com/ghpvc/?username=helenblopes&label=Profile%20views&color=0e75b6&style=flat" alt="helenblopes" /> </p>
