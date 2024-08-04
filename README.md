@@ -6,7 +6,7 @@
 - 📫 Você me encontra através do e-mail: **contatohelenlopes@gmail.com**
 
 - 💡 Conheça um pouco do meu desenvolvimento: [https://github.com/helenblopes/portfolio](https://github.com/helenblopes/portfolio)
-- 
+  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helenblopes&" alt="helenblopes" /></p>
 
