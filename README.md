@@ -7,7 +7,7 @@
 
 - 💡 Conheça um pouco do meu desenvolvimento: [https://github.com/helenblopes/portfolio](https://github.com/helenblopes/portfolio)
   
-<align="center">O objetivo deste repositório no GitHub é transformá-lo em um portfólio para documentar e registrar meu desenvolvimento na área de Tecnologia da Informação.
+O objetivo deste repositório é transformá-lo em um portfólio para registrar meu desenvolvimento na área de Tecnologia da Informação.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
